@@ -32,6 +32,9 @@
 - **[Elephas](https://elephas.app)**  
 	  Assists in managing research by organizing study materials and enhancing academic writing, making the research process more efficient for students and faculty.
 
+- **[Remio](https://remio.ai/)**  
+	  Provides a local-first AI memory and knowledge base for research and study materials, parsing files, webpages, recordings, emails, messages, images, and notes into local indexes so students and faculty can retrieve focused context quickly.
+
 - **Advanced Academic Tools**  
 	  Streamline research, ensure academic integrity, and facilitate advanced data analysis to support higher-level learning and scholarly work.
 
